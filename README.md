@@ -1,4 +1,4 @@
-### Hello, Im jjandxa. <a href="https://t.me/aixiaoai" title="Sendya's Telegram" target="_blank" rel="nofollow"><img alt="Sendya Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=jjandxa" />
+### Hello, Im jjandxa. <a href="https://t.me/aixiaoai" title="jjandxa's Telegram" target="_blank" rel="nofollow"><img alt="jjandxa Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=jjandxa" />
 
 
 - 🔭 I’m currently working on China.
