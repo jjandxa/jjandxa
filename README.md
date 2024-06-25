@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on China.
 - 👯 I like Music, Ukulele, Guitar, Photograph and Coding.
-- 👋 My personal [blog site](https://tangcuxa.club)
+<!-- - 👋 My personal [blog site](https://tangcuxa.club) -->
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
